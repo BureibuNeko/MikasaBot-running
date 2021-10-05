@@ -1,4 +1,5 @@
-#用于Mikasa-bot的维护服务
+#Maintenance services for Mikasa-bot
+
 become zh-fwdreview-bot 
 cd LilyWhiteBot
 
